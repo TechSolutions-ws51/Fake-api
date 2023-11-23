@@ -29,5 +29,107 @@
 
     }
 
+  ],
+  "ingredientes": [
+    {
+      "id": 1,
+      "nombre": "Cerveza Pilsen",
+      "costo": 10
+    },
+    {
+      "id": 2,
+      "nombre": "Cerveza Cristal",
+      "costo": 9
+    },
+    {
+      "id": 3,
+      "nombre": "Cerveza Cusqueña",
+      "costo": 11
+    },
+    {
+      "id": 4,
+      "nombre": "Ron Acholado",
+      "costo": 20
+    },
+    {
+      "id": 5,
+      "nombre": "Whisky Johnny Walker",
+      "costo": 30
+    },
+    {
+      "id": 6,
+      "nombre": "Vodka Absolut",
+      "costo": 25
+    },
+    {
+      "id": 7,
+      "nombre": "Ginebra Beefeater",
+      "costo": 22
+    },
+    {
+      "id": 8,
+      "nombre": "Tequila José Cuervo",
+      "costo": 28
+    },
+    {
+      "id": 9,
+      "nombre": "Ron Medellín",
+      "costo": 25
+    },
+    {
+      "id": 10,
+      "nombre": "Whisky Jack Daniel's",
+      "costo": 32
+    },
+    {
+      "id": 11,
+      "nombre": "Vodka Smirnoff",
+      "costo": 27
+    },
+    {
+      "id": 12,
+      "nombre": "Ginebra Tanqueray",
+      "costo": 23
+    },
+    {
+      "id": 13,
+      "nombre": "Tequila Sauza",
+      "costo": 29
+    },
+    {
+      "id": 14,
+      "nombre": "Ron Havana Club",
+      "costo": 26
+    },
+    {
+      "id": 15,
+      "nombre": "Whisky Chivas Regal",
+      "costo": 34
+    },
+    {
+      "id": 16,
+      "nombre": "Vodka Grey Goose",
+      "costo": 30
+    },
+    {
+      "id": 17,
+      "nombre": "Ginebra Bombay Sapphire",
+      "costo": 25
+    },
+    {
+      "id": 18,
+      "nombre": "Tequila Patrón",
+      "costo": 31
+    },
+    {
+      "id": 19,
+      "nombre": "Ron Brugal",
+      "costo": 27
+    },
+    {
+      "id": 20,
+      "nombre": "Whisky Johnnie Walker Black Label",
+      "costo": 36
+    }
   ]
 }
